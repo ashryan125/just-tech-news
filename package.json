@@ -1,7 +1,7 @@
 {
   "name": "just-tech-news",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Description A demo news site (like Reddit) where users can post links to articles and other users can then vote (up or down) and make comments",
   "main": "server.js",
   "scripts": {
     "test": "jest",
@@ -31,5 +31,6 @@
   },
   "devDependencies": {
     "jest": "^27.0.6"
-  }
+  },
+  "keywords": []
 }
